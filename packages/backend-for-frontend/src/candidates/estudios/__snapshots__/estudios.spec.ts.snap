@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Curriculum should delete estudio data 1`] = `null`;
+
+exports[`Curriculum should get estudio data 1`] = `
+Object {
+  "areaEstudio": Object {
+    "id": 30,
+    "nombre": "Ing. Informática",
+  },
+  "cantidadMateriasAprobadas": 4,
+  "cantidadMateriasTotal": 40,
+  "estadoEstudio": Object {
+    "id": 3,
+    "nombre": "Abandonado",
+  },
+  "fechaFin": "01-05-2003",
+  "fechaInicio": "01-01-2002",
+  "id": 75668500,
+  "institucionEducativa": Object {
+    "alias": null,
+    "id": 203,
+    "nombre": "Universidad de Buenos Aires",
+  },
+  "pais": Object {
+    "id": 1,
+    "isoCode": "ar",
+    "nombre": "Argentina",
+  },
+  "promedio": null,
+  "rangoPromedio": null,
+  "tipoEstudio": Object {
+    "id": 3,
+    "nombre": "Universitario",
+  },
+  "titulo": "Ingeniero en Informatica",
+}
+`;
+
+exports[`Curriculum should put estudio data 1`] = `null`;

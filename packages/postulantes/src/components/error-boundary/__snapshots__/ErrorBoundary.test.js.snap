@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorBoundary snapshots with error 1`] = `
+<div>
+  <h2>
+    Algo no salió bien
+  </h2>
+</div>
+`;
+
+exports[`ErrorBoundary snapshots with no error 1`] = `"Hola"`;

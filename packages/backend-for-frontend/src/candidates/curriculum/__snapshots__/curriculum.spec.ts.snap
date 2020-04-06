@@ -1,0 +1,608 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Curriculum should delete experiencia laboral 1`] = `true`;
+
+exports[`Curriculum should get curriculum data 1`] = `
+Object {
+  "curriculum": Object {
+    "conocimientosDesnormalizados": Array [
+      Object {
+        "descripcion": "Conocimientos generales en composicion y pos-edicion de imagen",
+        "id": 42789980,
+        "titulo": "Fotografia",
+      },
+    ],
+    "conocimientosNormalizados": Array [
+      Object {
+        "calificador": Object {
+          "id": 18,
+          "nombre": "Manejo",
+        },
+        "conocimientoEspecifico": null,
+        "grupo": Object {
+          "id": 3,
+          "nombre": "Informatica",
+        },
+        "id": 13193502,
+        "nivel": Object {
+          "id": 10,
+          "nombre": "Avanzado",
+        },
+        "tipo": Object {
+          "id": 8,
+          "nombre": "Office",
+        },
+      },
+      Object {
+        "calificador": Object {
+          "id": 18,
+          "nombre": "Manejo",
+        },
+        "conocimientoEspecifico": null,
+        "grupo": Object {
+          "id": 3,
+          "nombre": "Informatica",
+        },
+        "id": 13193503,
+        "nivel": Object {
+          "id": 11,
+          "nombre": "Intermedio",
+        },
+        "tipo": Object {
+          "id": 9,
+          "nombre": "Base de Datos",
+        },
+      },
+      Object {
+        "calificador": Object {
+          "id": 18,
+          "nombre": "Manejo",
+        },
+        "conocimientoEspecifico": null,
+        "grupo": Object {
+          "id": 3,
+          "nombre": "Informatica",
+        },
+        "id": 13193505,
+        "nivel": Object {
+          "id": 10,
+          "nombre": "Avanzado",
+        },
+        "tipo": Object {
+          "id": 11,
+          "nombre": "Herramientas Graficas",
+        },
+      },
+      Object {
+        "calificador": Object {
+          "id": 19,
+          "nombre": "Seniority",
+        },
+        "conocimientoEspecifico": Object {
+          "id": 463,
+          "nombre": "MS Office",
+        },
+        "grupo": Object {
+          "id": 3,
+          "nombre": "Informatica",
+        },
+        "id": 55324019,
+        "nivel": Object {
+          "id": 1,
+          "nombre": "Intermedio",
+        },
+        "tipo": Object {
+          "id": 1013,
+          "nombre": "Aplicaciones Laborales",
+        },
+      },
+    ],
+    "descripcion": "Buenos días,
+Adjunto el link de mi pagina con trabajos realizados.
+www.barragandiseño.com.ar
+Soy Diseñador Grafico recientemente graduado de la UBA y tengo conocimientos en desarrollo web sobre Html5, Css3, JavaScript, ActionScript y Jquery.",
+    "estudios": Array [
+      Object {
+        "areaEstudio": Object {
+          "id": 30,
+          "nombre": "Ing. Informática",
+        },
+        "cantidadMateriasAprobadas": 4,
+        "cantidadMateriasTotal": 40,
+        "estadoEstudio": Object {
+          "id": 3,
+          "nombre": "Abandonado",
+        },
+        "fechaFin": "01-05-2003",
+        "fechaInicio": "01-01-2002",
+        "id": 75668500,
+        "institucionEducativa": Object {
+          "alias": null,
+          "id": 203,
+          "nombre": "Universidad de Buenos Aires",
+        },
+        "pais": Object {
+          "id": 1,
+          "isoCode": "ar",
+          "nombre": "Argentina",
+        },
+        "promedio": null,
+        "rangoPromedio": null,
+        "tipoEstudio": Object {
+          "id": 3,
+          "nombre": "Universitario",
+        },
+        "titulo": "Ingeniero en Informatica",
+      },
+      Object {
+        "areaEstudio": Object {
+          "id": 233,
+          "nombre": "Actuaría",
+        },
+        "cantidadMateriasAprobadas": null,
+        "cantidadMateriasTotal": null,
+        "estadoEstudio": Object {
+          "id": 2,
+          "nombre": "Graduado",
+        },
+        "fechaFin": "01-08-2008",
+        "fechaInicio": "01-08-2002",
+        "id": 1017522464,
+        "institucionEducativa": Object {
+          "alias": null,
+          "id": 199,
+          "nombre": "UADE",
+        },
+        "pais": Object {
+          "id": 1,
+          "isoCode": "ar",
+          "nombre": "Argentina",
+        },
+        "promedio": "4,654",
+        "rangoPromedio": Object {
+          "id": 11,
+          "nombre": "desde 1 hasta 100",
+        },
+        "tipoEstudio": Object {
+          "id": 1,
+          "nombre": "Secundario",
+        },
+        "titulo": "FGHFGH",
+      },
+      Object {
+        "areaEstudio": Object {
+          "id": 13,
+          "nombre": "Diseño Gráfico",
+        },
+        "cantidadMateriasAprobadas": null,
+        "cantidadMateriasTotal": null,
+        "estadoEstudio": Object {
+          "id": 2,
+          "nombre": "Graduado",
+        },
+        "fechaFin": "01-06-2011",
+        "fechaInicio": "01-06-2003",
+        "id": 75666680,
+        "institucionEducativa": Object {
+          "alias": null,
+          "id": 203,
+          "nombre": "Universidad de Buenos Aires",
+        },
+        "pais": Object {
+          "id": 1,
+          "isoCode": "ar",
+          "nombre": "Argentina",
+        },
+        "promedio": "14",
+        "rangoPromedio": Object {
+          "id": 11,
+          "nombre": "desde 1 hasta 100",
+        },
+        "tipoEstudio": Object {
+          "id": 3,
+          "nombre": "Universitario",
+        },
+        "titulo": "Diseñador Grafico",
+      },
+      Object {
+        "areaEstudio": Object {
+          "id": 62,
+          "nombre": "Antropología",
+        },
+        "cantidadMateriasAprobadas": null,
+        "cantidadMateriasTotal": null,
+        "estadoEstudio": Object {
+          "id": 2,
+          "nombre": "Graduado",
+        },
+        "fechaFin": null,
+        "fechaInicio": "15-10-2007",
+        "id": 1017801120,
+        "institucionEducativa": Object {
+          "alias": null,
+          "id": 100996,
+          "nombre": "\\"Instituto Universitario de Tecnología \\"\\"General Pedro María Freites\\"\\"\\"",
+        },
+        "pais": Object {
+          "id": 1,
+          "isoCode": "ar",
+          "nombre": "Argentina",
+        },
+        "promedio": null,
+        "rangoPromedio": null,
+        "tipoEstudio": Object {
+          "id": 4,
+          "nombre": "Posgrado",
+        },
+        "titulo": "jdkd",
+      },
+    ],
+    "experienciasLaborales": Array [
+      Object {
+        "area": Object {
+          "id": 6,
+          "nombre": "Comercial, Ventas y Negocios",
+        },
+        "areaId": null,
+        "cantidadPersonasACargo": 3,
+        "detalle": "ventas",
+        "empresa": "ventas",
+        "fechaFin": "01-02-2014",
+        "fechaInicio": "01-03-2013",
+        "id": 1041072093,
+        "industria": Object {
+          "id": 12,
+          "nombre": "Comercio",
+        },
+        "manejaPresupuesto": true,
+        "nivelPuesto": Object {
+          "id": 4,
+          "nombre": "Senior",
+        },
+        "pais": Object {
+          "id": 1,
+          "isoCode": "ar",
+          "nombre": "Argentina",
+        },
+        "puesto": "ventas",
+        "subArea": Object {
+          "id": 35,
+          "nombre": "Ventas",
+        },
+      },
+      Object {
+        "area": Object {
+          "id": 1,
+          "nombre": "Administración, Contabilidad y Finanzas",
+        },
+        "areaId": null,
+        "cantidadPersonasACargo": 4,
+        "detalle": "Jfjgkfjfbcjcj",
+        "empresa": "empresa de admin",
+        "fechaFin": "15-09-2016",
+        "fechaInicio": "15-09-2014",
+        "id": 1036968401,
+        "industria": Object {
+          "id": 71,
+          "nombre": "Alimenticia",
+        },
+        "manejaPresupuesto": false,
+        "nivelPuesto": Object {
+          "id": 4,
+          "nombre": "Senior",
+        },
+        "pais": Object {
+          "id": 1,
+          "isoCode": "ar",
+          "nombre": "Argentina",
+        },
+        "puesto": "puesto de test",
+        "subArea": Object {
+          "id": 22,
+          "nombre": "Administración",
+        },
+      },
+      Object {
+        "area": Object {
+          "id": 1,
+          "nombre": "Administración, Contabilidad y Finanzas",
+        },
+        "areaId": null,
+        "cantidadPersonasACargo": null,
+        "detalle": "asdasdasdasd",
+        "empresa": "a",
+        "fechaFin": "07-12-2016",
+        "fechaInicio": "16-12-2015",
+        "id": 1038082580,
+        "industria": Object {
+          "id": 60,
+          "nombre": "Agro-Industrial",
+        },
+        "manejaPresupuesto": false,
+        "nivelPuesto": Object {
+          "id": 3,
+          "nombre": "SemiSenior",
+        },
+        "pais": Object {
+          "id": 34,
+          "isoCode": "de",
+          "nombre": "Alemania",
+        },
+        "puesto": "asd",
+        "subArea": Object {
+          "id": 22,
+          "nombre": "Administración",
+        },
+      },
+    ],
+    "id": 61782940,
+    "idiomas": Object {
+      "1102": Object {
+        "Escrito": Object {
+          "calificador": Object {
+            "id": 16,
+            "nombre": "Escrito",
+          },
+          "conocimientoEspecifico": null,
+          "grupo": Object {
+            "id": 2,
+            "nombre": "Idiomas",
+          },
+          "id": 60066565,
+          "nivel": Object {
+            "id": 9,
+            "nombre": "Básico",
+          },
+          "tipo": Object {
+            "id": 1102,
+            "nombre": "Chino Mandarín",
+          },
+        },
+        "Oral": Object {
+          "calificador": Object {
+            "id": 17,
+            "nombre": "Oral",
+          },
+          "conocimientoEspecifico": null,
+          "grupo": Object {
+            "id": 2,
+            "nombre": "Idiomas",
+          },
+          "id": 60066564,
+          "nivel": Object {
+            "id": 9,
+            "nombre": "Básico",
+          },
+          "tipo": Object {
+            "id": 1102,
+            "nombre": "Chino Mandarín",
+          },
+        },
+      },
+      "1103": Object {
+        "Escrito": Object {
+          "calificador": Object {
+            "id": 16,
+            "nombre": "Escrito",
+          },
+          "conocimientoEspecifico": null,
+          "grupo": Object {
+            "id": 2,
+            "nombre": "Idiomas",
+          },
+          "id": 60067215,
+          "nivel": Object {
+            "id": 12,
+            "nombre": "Nativo",
+          },
+          "tipo": Object {
+            "id": 1103,
+            "nombre": "Coreano",
+          },
+        },
+        "Oral": Object {
+          "calificador": Object {
+            "id": 17,
+            "nombre": "Oral",
+          },
+          "conocimientoEspecifico": null,
+          "grupo": Object {
+            "id": 2,
+            "nombre": "Idiomas",
+          },
+          "id": 60067214,
+          "nivel": Object {
+            "id": 12,
+            "nombre": "Nativo",
+          },
+          "tipo": Object {
+            "id": 1103,
+            "nombre": "Coreano",
+          },
+        },
+      },
+      "2": Object {
+        "Escrito": Object {
+          "calificador": Object {
+            "id": 16,
+            "nombre": "Escrito",
+          },
+          "conocimientoEspecifico": null,
+          "grupo": Object {
+            "id": 2,
+            "nombre": "Idiomas",
+          },
+          "id": 60065617,
+          "nivel": Object {
+            "id": 11,
+            "nombre": "Intermedio",
+          },
+          "tipo": Object {
+            "id": 2,
+            "nombre": "Francés",
+          },
+        },
+        "Oral": Object {
+          "calificador": Object {
+            "id": 17,
+            "nombre": "Oral",
+          },
+          "conocimientoEspecifico": null,
+          "grupo": Object {
+            "id": 2,
+            "nombre": "Idiomas",
+          },
+          "id": 60065616,
+          "nivel": Object {
+            "id": 10,
+            "nombre": "Avanzado",
+          },
+          "tipo": Object {
+            "id": 2,
+            "nombre": "Francés",
+          },
+        },
+      },
+    },
+    "referencias": Array [
+      Object {
+        "apellido": "Ndj",
+        "detalle": "a - asd",
+        "email": "adro@yopmail.com",
+        "estado": "sin_confirmar",
+        "id": 9127055,
+        "nombre": "Bdj",
+        "puesto": "asd",
+        "referenciaId": 1038082580,
+        "relacion": "jefe",
+        "telefono": Object {
+          "numero": "73737",
+          "prefijo": "11",
+        },
+        "tipo": "laboral",
+      },
+      Object {
+        "apellido": "ndj",
+        "detalle": "a - asd",
+        "email": "adro@yopmail.com",
+        "estado": "sin_confirmar",
+        "id": 9127171,
+        "nombre": "jsj",
+        "puesto": "asd",
+        "referenciaId": 1038082580,
+        "relacion": "jefe",
+        "telefono": Object {
+          "numero": "54848",
+          "prefijo": "11",
+        },
+        "tipo": "laboral",
+      },
+    ],
+    "salarioPreferencia": 1110,
+  },
+  "datosPersonales": Object {
+    "apellido": "Barragánn",
+    "codigoPostal": null,
+    "cvAdjuntoURL": "applicant_68562460_CV_61782940.mp4",
+    "direccion": "caa guazu 986, Curuzú Cuatiá, Corrientes, Argentina",
+    "disabilityCertificateURL": null,
+    "discapacidad": null,
+    "domicilio": Object {
+      "direccion": null,
+      "localidad": Object {
+        "id": 7,
+        "nombre": "Capital Federal",
+      },
+      "pais": Object {
+        "id": 1,
+        "isoCode": "ar",
+        "nombre": "Argentina",
+      },
+      "provincia": Object {
+        "id": 29,
+        "nombre": "Buenos Aires",
+      },
+    },
+    "email": "abarragan@navent.com",
+    "estadoCivil": Object {
+      "id": 1,
+      "nombre": "Soltero/a",
+    },
+    "fechaNacimiento": "19-08-1983",
+    "fotoURL": "http://imgbum.prepro.jobscdn.com/portal/img/postulantes/1/static/cvMainPic_68562460_bum_v64776769.jpg",
+    "genero": "masculino",
+    "id": 68562460,
+    "nombre": "Adrián Guillermo",
+    "numeroDocumento": "31034553",
+    "paisNacimiento": Object {
+      "id": 1,
+      "isoCode": "ar",
+      "nombre": "Argentina",
+    },
+    "paisRegistro": Object {
+      "id": 1,
+      "isoCode": "ar",
+      "nombre": "Argentina",
+    },
+    "paisResidencia": Object {
+      "id": 1,
+      "isoCode": "ar",
+      "nombre": "Argentina",
+    },
+    "telefonoCelular": Object {
+      "numero": "64738023",
+      "prefijo": "5415",
+    },
+    "telefonoFijo": Object {
+      "numero": "35284312",
+      "prefijo": "5411",
+    },
+    "tieneLicenciaConducir": null,
+    "tieneMovilidadPropia": null,
+    "tipoDocumento": Object {
+      "id": 45,
+      "nombre": "D.N.I.",
+    },
+  },
+  "pda": Object {},
+}
+`;
+
+exports[`Curriculum should get experiencia laboral 1`] = `
+Object {
+  "area": Object {
+    "id": 6,
+    "nombre": "Comercial, Ventas y Negocios",
+  },
+  "areaId": null,
+  "cantidadPersonasACargo": 0,
+  "detalle": "string",
+  "empresa": "vago",
+  "fechaFin": "01-03-2013",
+  "fechaInicio": "01-03-2014",
+  "id": 1047610058,
+  "industria": Object {
+    "id": 12,
+    "nombre": "Comercio",
+  },
+  "manejaPresupuesto": true,
+  "nivelPuesto": Object {
+    "id": 4,
+    "nombre": "Senior",
+  },
+  "pais": Object {
+    "id": 1,
+    "isoCode": "ar",
+    "nombre": "Argentina",
+  },
+  "puesto": "senior",
+  "subArea": Object {
+    "id": 35,
+    "nombre": "Ventas",
+  },
+}
+`;
+
+exports[`Curriculum should post experiencia laboral 1`] = `1038082580`;
+
+exports[`Curriculum should put experiencia laboral 1`] = `undefined`;

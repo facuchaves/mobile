@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Breadcrumb with back link 1`] = `
+<nav
+  className="sc-cMljjf jUOQfA"
+>
+  <a
+    className="sc-jAaTju kkZuVY"
+    onClick={[Function]}
+  >
+    &lt; Volver
+  </a>
+  <span>
+    |
+  </span>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Uno
+  </a>
+  <span>
+    &gt;
+  </span>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Dos
+  </a>
+</nav>
+`;
+
+exports[`Storyshots Breadcrumb with back link and current title 1`] = `
+<nav
+  className="sc-cMljjf jUOQfA"
+>
+  <a
+    className="sc-jAaTju kkZuVY"
+    onClick={[Function]}
+  >
+    &lt; Volver
+  </a>
+  <span>
+    |
+  </span>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Uno
+  </a>
+  <span>
+    &gt;
+  </span>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Dos
+  </a>
+  <span>
+    &gt;
+  </span>
+  <a
+    className="sc-gPEVay iYUxxX"
+  >
+    Sección Actual
+  </a>
+</nav>
+`;
+
+exports[`Storyshots Breadcrumb with current title 1`] = `
+<nav
+  className="sc-cMljjf jUOQfA"
+>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Uno
+  </a>
+  <span>
+    &gt;
+  </span>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Dos
+  </a>
+  <span>
+    &gt;
+  </span>
+  <a
+    className="sc-gPEVay iYUxxX"
+  >
+    Actual
+  </a>
+</nav>
+`;
+
+exports[`Storyshots Breadcrumb with just previous links 1`] = `
+<nav
+  className="sc-cMljjf jUOQfA"
+>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Uno
+  </a>
+  <span>
+    &gt;
+  </span>
+  <a
+    className="sc-jDwBTQ hiZtAY"
+    href="#"
+  >
+    Link Dos
+  </a>
+</nav>
+`;

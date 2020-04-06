@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "name": "@navent-jobs/config",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "echo not implemented",
+        "validate": "true"
+    },
+    "author": "",
+    "license": "ISC"
+  }

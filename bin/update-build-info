@@ -1,0 +1,22 @@
+#!/usr/bin/env node
+/* eslint-disable */
+'use strict'
+
+try {
+  var fs = require('fs')
+  var repoInfo = require('git-repo-info')()
+  var packageJson = require('../package.json')
+
+  var info = {
+    id: repoInfo.sha,
+    version: packageJson.version,
+  }
+
+  var infoJson = JSON.stringify(info, null, 2)
+
+  fs.writeFileSync('./packages/backend-for-frontend/src/build-info.json', infoJson)
+  fs.writeFileSync('./packages/semanas/public/build-info.json', infoJson)
+} catch (error) {
+  console.error('Error when trying to update build info', error)
+  console.log('Ignoring and exiting')
+}

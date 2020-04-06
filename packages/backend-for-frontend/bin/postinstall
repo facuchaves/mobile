@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# helper functions
+
+check_and_create_dev_config() {
+  echo "🔍  Verifying development configuration files..."
+  CONFIG_DEV_TEMPLATE="$(pwd)/.env.local.bm"
+  CONFIG_DEV="$(pwd)/.env.development"
+
+  if [ ! -f $CONFIG_DEV ]; then
+    echo "📄  Missing .env.development file. Creating one from the template..."
+    cp $CONFIG_DEV_TEMPLATE $CONFIG_DEV
+  else
+    echo "🚀  Done. You have already a development configuration file!"
+  fi
+}
+
+# run commands
+
+echo "🔧  Running postinstall script for backend/jobs..."
+
+check_and_create_dev_config

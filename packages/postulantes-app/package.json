@@ -1,0 +1,79 @@
+{
+  "name": "navent",
+  "version": "5.1.5",
+  "private": true,
+  "workspaces": {
+    "nohoist": [
+      "**",
+      "react"
+    ]
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "install-adb-debug": "adb install android/app/build/outputs/apk/debug/app-debug.apk",
+    "build": "echo \"No sources to build\" && exit 0",
+    "validate": "echo \"No tests implemented\" && exit 0",
+    "run-debug-bumeran": "ENVFILE=.env.bumeran react-native run-android --variant=bumeranDebug --appIdSuffix=bumeran && adb install android/app/build/outputs/apk/bumeran/debug/app-bumeran-debug.apk",
+    "run-debug-laborum": "ENVFILE=.env.laborum react-native run-android --variant=laborumDebug --appIdSuffix=laborum && adb install android/app/build/outputs/apk/laborum/debug/app-laborum-debug.apk",
+    "run-debug-multitrabajo": "ENVFILE=.env.multitrabajo react-native run-android --variant=multitrabajoDebug --appIdSuffix=multitrabajo && adb install android/app/build/outputs/apk/multitrabajo/debug/app-multitrabajo-debug.apk",
+    "run-debug-konzerta": "ENVFILE=.env.konzerta react-native run-android --variant=konzertaDebug --appIdSuffix=konzerta && adb install android/app/build/outputs/apk/konzerta/debug/app-konzerta-debug.apk",
+    "compile-release-bumeran": "cd android && ENVFILE=.env.prod-bumeran ./gradlew assembleBumeranRelease",
+    "compile-release-laborum": "cd android && ENVFILE=.env.laborum ./gradlew assembleLaborumRelease",
+    "compile-release-multitrabajos": "cd android && ENVFILE=.env.prod-multitrabajo ./gradlew assembleMultitrabajoRelease",
+    "compile-release-konzerta": "cd android && ENVFILE=.env.prod-konzerta ./gradlew assembleKonzertaRelease"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "1.7.1",
+    "@react-native-community/netinfo": "^5.6.2",
+    "axios": "0.19.0",
+    "babel-plugin-root-import": "6.4.1",
+    "color": "3.1.2",
+    "eslint-import-resolver-babel-plugin-root-import": "1.1.1",
+    "formik": "1.5.8",
+    "hoist-non-react-statics": "3.3.0",
+    "i18next": "17.0.7",
+    "lodash": "4.17.14",
+    "moment": "2.24.0",
+    "moment-timezone": "0.5.27",
+    "native-base": "2.13.8",
+    "prop-types": "15.7.2",
+    "querystring": "0.2.0",
+    "react": "16.9.0",
+    "react-i18next": "9.0.10",
+    "react-native": "0.61.5",
+    "react-native-config": "0.12.0",
+    "react-native-dropdown-autocomplete": "^1.0.18",
+    "react-native-fs": "^2.16.2",
+    "react-native-geocoding": "^0.4.0",
+    "react-native-image-crop-picker": "0.27.0",
+    "react-native-modal-select-list": "^1.0.0",
+    "react-native-navigation": "^3.0.0-alpha.11",
+    "react-native-navigation-hooks": "^3.3.1",
+    "react-native-on-layout": "^2.0.2",
+    "react-native-render-html": "4.1.2",
+    "react-native-restart": "0.0.12",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-swiper": "1.6.0-nightly.3",
+    "react-native-vector-icons": "6.6.0",
+    "react-native-version-number": "^0.3.6",
+    "react-native-video": "5.0.2",
+    "react-redux": "7.1.1",
+    "redux": "4.0.4",
+    "rn-placeholder": "^3.0.0",
+    "toggle-switch-react-native": "^2.1.0",
+    "util": "0.12.1",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/runtime": "^7.5.4",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.55.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "siteId": "BMAR",
+    "idPais": 1,
+    "eCommerceHabilitado": true,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "AR"
+  },
+  {
+    "siteId": "BMCL",
+    "idPais": 1007,
+    "eCommerceHabilitado": true,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "CL"
+  },
+  {
+    "siteId": "BMPA",
+    "idPais": 20,
+    "eCommerceHabilitado": false,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "PA"
+  },
+  {
+    "siteId": "BMEC",
+    "idPais": 9,
+    "eCommerceHabilitado": false,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "EC"
+  },
+  {
+    "siteId": "BMVE",
+    "idPais": 13,
+    "eCommerceHabilitado": false,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "VE"
+  },
+  {
+    "siteId": "BMPE",
+    "idPais": 11,
+    "eCommerceHabilitado": true,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "PE"
+  },
+  {
+    "siteId": "BMMX",
+    "idPais": 18,
+    "eCommerceHabilitado": true,
+    "eCommerceSiteId": 3,
+    "cdnUrl": "https://imgbum.prepro.jobscdn.com",
+    "portal": "bumeran",
+    "sufijoPais": "MX"
+  },
+  {
+    "siteId": "ZJAR",
+    "idPais": 1,
+    "eCommerceHabilitado": true,
+    "eCommerceSiteId": 4,
+    "cdnUrl": "https://imgzj.prepro.jobscdn.com",
+    "portal": "zonajobs",
+    "sufijoPais": "AR"
+  }
+]

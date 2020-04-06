@@ -1,0 +1,70 @@
+{
+  "name": "semanas",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/semana",
+  "dependencies": {
+    "@navent-jobs/config": "1.0.0",
+    "@navent-jobs/ui-kit": "1.0.0",
+    "@navent-jobs/utils": "1.0.0",
+    "babel-loader": "8.0.6",
+    "es6-promise": "4.2.8",
+    "lodash": "4.17.11",
+    "moment": "2.24.0",
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-content-loader": "4.2.1",
+    "react-dom": "16.8.6",
+    "react-ga": "2.6.0",
+    "react-gtm-module": "2.0.8",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "3.0.1",
+    "react-slick": "0.24.0",
+    "slick-carousel": "1.8.1",
+    "styled-components": "4.3.2"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "yarn build-BMAR & yarn build-BMCL & yarn build-BMEC & yarn build-BMMX & yarn build-BMPA & yarn build-BMPE & yarn build-BMVE & wait",
+    "test": "react-app-rewired test",
+    "validate": "react-app-rewired test --coverage --coverageDirectory=output/coverage --reporters=jest-junit && yarn run mv-coverage",
+    "mv-coverage": "mv output/coverage/cobertura-coverage.xml output/coverage/frontend-semanas-coverage.xml",
+    "eject": "react-scripts eject",
+    "new-component": "yo jobs-portal:react-component",
+    "build-BMAR": "REACT_APP_SITE_ID=BMAR yarn build-site",
+    "build-BMCL": "REACT_APP_SITE_ID=BMCL yarn build-site",
+    "build-BMEC": "REACT_APP_SITE_ID=BMEC yarn build-site",
+    "build-BMMX": "REACT_APP_SITE_ID=BMMX yarn build-site",
+    "build-BMPA": "REACT_APP_SITE_ID=BMPA yarn build-site",
+    "build-BMPE": "REACT_APP_SITE_ID=BMPE yarn build-site",
+    "build-BMVE": "REACT_APP_SITE_ID=BMVE yarn build-site",
+    "build-ZJAR": "REACT_APP_SITE_ID=ZJAR yarn build-site",
+    "build-site": "react-app-rewired build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "7.8.3",
+    "@ljharb/eslint-config": "13.1.1",
+    "jest-sonar-reporter": "2.0.0",
+    "react-app-rewired": "2.1.5",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "coverageReporters": [
+      "lcov",
+      "cobertura"
+    ]
+  },
+  "jest-junit": {
+    "outputDirectory": "output/test",
+    "outputName": "./test-report.xml"
+  }
+}

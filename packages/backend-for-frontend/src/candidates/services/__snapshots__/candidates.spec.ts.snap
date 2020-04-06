@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Candidates  should completar req con solo apellido 1`] = `
+Object {
+  "apellido": "Apellido modificado",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo celularNumero 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "CelularNumero modificado",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo celularPrefijo 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "CelularPrefijo modificado",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo discapacidadDetalle 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": "DiscapacidadDetalle modificado",
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo documento 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "Documento modificado",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo email 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "Email modificado",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo estadoCivilId 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 2,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo fechaNacimiento 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "FechaNacimiento modificado",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo genero 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "Genero modificado",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo nombre 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Nombre modificado",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo paisNacimientoId 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 2,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo telefonoFijoNumero 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "TelefonoFijoNumero modificado",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo telefonoFijoPrefijo 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "TelefonoFijoPrefijo modificado",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo tieneLicenciaConducir 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": false,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo tieneMovilidadPropia 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": false,
+  "tipoDocumentoId": 45,
+}
+`;
+
+exports[`Candidates  should completar req con solo tipoDocumentoId 1`] = `
+Object {
+  "apellido": "Barragán",
+  "celularNumero": "64738023",
+  "celularPrefijo": "5415",
+  "discapacidadDetalle": null,
+  "documento": "31034553",
+  "email": "abarragan@navent.com",
+  "estadoCivilId": 1,
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "nombre": "Adrián Guillermo",
+  "paisNacimientoId": 1,
+  "telefonoFijoNumero": "35284312",
+  "telefonoFijoPrefijo": "5411",
+  "tieneLicenciaConducir": null,
+  "tieneMovilidadPropia": null,
+  "tipoDocumentoId": 2,
+}
+`;

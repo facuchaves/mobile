@@ -1,0 +1,71 @@
+{
+  "fechaPostulacion": "26-07-2019",
+  "estadoPostulacion": "Estado mocked",
+  "aviso": {
+    "fechaPublicacion": "26-07-2019",
+    "fechaFinalizacion": "25-08-2019",
+    "estado": "activo",
+    "titulo": "Analista BI Sr.",
+    "descripcion": "<p>Somos la empresa multinacional líder en el mercado de Clasificados Online de Real Estate y Empleos. Queremos ayudar a que las personas logren dos de los anhelos más importantes de su vida: encontrar un empleo y un hogar. </p><p>Nuestra prioridad es que nuestros clientes tomen mejores decisiones, de manera más rápida y fácil. </p><p>Para nosotros siempre el usuario esta primero. </p><p>Las marcas que forman parte de Navent son: ZonaProp, Imovelweb, Wimoveis, Inmuebles24, Adondevivir, Plusvalia, Conlallave, CompreoAlquile, Union, CRM Inmobiliario, Bumeran, ZonaJobs, UniversoBit, Laborum, Multitrabajos,  Konzerta, Hiring Room entre otras.</p><p>¡En Navent estamos en búsqueda de Nuevos Talentos!</p><p>En esta oportunidad estamos en búsqueda de un <strong>Analista BI Sr</strong>. El objetivo del rol será el desarrollo de reportes y análisis de las operaciones, los cuales brindarán datos para la toma de decisiones. Realizar pedidos de análisis ad hoc del top management.<br /><br />Los requisitos que necesitamos para cubrir esta posición son:<br /><br /></p><ul><li>Graduado de las carreras de Ingeniería Industrial, Administración, Lic. En Economía, Adm. y sistemas.</li><li> </li><li>Experiencia previa de 3-5 años en posiciones similares.</li></ul><ul><li>Dominio de Office avanzado (Excluyente)</li></ul><ul><li>SQL avanzado (deseable)</li></ul><ul><li>Herramientas de Reporting y  Business Analytics (Datastudio)</li></ul><ul><li>Inglés intermedio (Deseable) / Portugués básico (Deseable)</li></ul><ul><li>Alta capacidad de análisis, buenas relaciones interpersonales,  y trabajo en equipo.</li></ul><p> </p><p>El lugar de trabajo es en nuestras oficinas que se encuentran en <strong>Belgrano</strong> y te ofrecemos como principales beneficios:</p><ul><li>Excelente clima laboral y oportunidad de desarrollo profesional</li></ul><ul><li>Obra Social incluyendo grupo familiar</li></ul><ul><li>Día de cumpleaños libre</li></ul><ul><li>Viernes Flex </li></ul><ul><li>Semana Navent (días libres entre las fiestas)</li></ul><ul><li>50% de descuento en Megatlon</li></ul><ul><li>Refrigerios</li></ul><p><br /><br /></p>",
+    "aptoDiscapacitados": false,
+    "cantidadVacantes": 1,
+    "empresa": {
+      "denominacion": "Navent",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/1/0/1/1/3/7/7/5/logoMainPic_10113775_bum_v7d415042.jpg",
+      "confidencial": false,
+      "id": 10113775
+    },
+    "localizacion": {
+      "paisId": 1,
+      "zonaId": 1,
+      "provinciaId": 29,
+      "localidadId": 7,
+      "direccion": null,
+      "detalle": "Capital Federal, Buenos Aires, Argentina",
+      "id": 7
+    },
+    "area": {
+      "id": 1,
+      "nombre": "Administración, Contabilidad y Finanzas"
+    },
+    "subArea": {
+      "id": 25,
+      "nombre": "Finanzas"
+    },
+    "requisitos": {
+      "edad": null,
+      "residencia": {
+        "excluyente": false,
+        "cercania": "localidad",
+        "cantidadKm": null
+      },
+      "experiencia": null,
+      "genero": null,
+      "educacion": null,
+      "salario": null,
+      "idiomas": null
+    },
+    "preguntas": [],
+    "tipoTrabajo": {
+      "id": 2,
+      "nombre": "Full-time"
+    },
+    "planPublicacion": {
+      "id": 40,
+      "nombre": "Destacados"
+    },
+    "videoUrl": "vimeo.com/136332115",
+    "nivelLaboral": {
+      "nombre": "Senior / Semi-Senior",
+      "id": 1
+    },
+    "redireccionURL": null,
+    "origenAviso": "HIRING_ROOM",
+    "puesto": {
+      "puestoId": null,
+      "nombre": null,
+      "tieneEstadisticas": false
+    },
+    "id": 1113468691
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "postulantes",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/candidate",
+  "dependencies": {
+    "@navent-jobs/config": "1.0.0",
+    "@navent-jobs/ui-kit": "1.0.0",
+    "@navent-jobs/utils": "1.0.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "lodash": "4.17.11",
+    "moment": "2.24.0",
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-hook-form": "3.25.0",
+    "react-redux": "7.1.3",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.4",
+    "redux-devtools-extension": "2.13.8",
+    "redux-thunk": "2.3.0",
+    "styled-components": "4.3.2",
+    "uuid": "3.4.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "yarn build-BMAR & yarn build-BMCL & yarn build-BMEC & yarn build-BMMX & yarn build-BMPA & yarn build-BMPE & yarn build-BMVE & wait",
+    "test": "NODE_ENV=development react-app-rewired test",
+    "eject": "react-scripts eject",
+    "validate": "react-app-rewired test --coverage --coverageDirectory=output/coverage --reporters=jest-junit && yarn run mv-coverage",
+    "mv-coverage": "mv output/coverage/cobertura-coverage.xml output/coverage/frontend-postulantes-coverage.xml",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public",
+    "new-component": "yo jobs-portal:react-component",
+    "new-page": "yo jobs-portal:react-page",
+    "build-BMAR": "REACT_APP_SITE_ID=BMAR yarn build-site",
+    "build-BMCL": "REACT_APP_SITE_ID=BMCL yarn build-site",
+    "build-BMEC": "REACT_APP_SITE_ID=BMEC yarn build-site",
+    "build-BMMX": "REACT_APP_SITE_ID=BMMX yarn build-site",
+    "build-BMPA": "REACT_APP_SITE_ID=BMPA yarn build-site",
+    "build-BMPE": "REACT_APP_SITE_ID=BMPE yarn build-site",
+    "build-BMVE": "REACT_APP_SITE_ID=BMVE yarn build-site",
+    "build-site": "react-app-rewired build",
+    "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "7.8.3",
+    "@babel/plugin-transform-react-jsx": "7.3.0",
+    "@storybook/addon-actions": "5.1.9",
+    "@storybook/addon-links": "5.1.9",
+    "@storybook/addon-storyshots": "5.1.9",
+    "@storybook/addons": "5.1.9",
+    "@storybook/react": "5.1.9",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.4",
+    "@typescript-eslint/eslint-plugin": "2.15.0",
+    "@typescript-eslint/parser": "2.15.0",
+    "babel-loader": "8.0.5",
+    "cross-env": "5.2.0",
+    "eslint": "6.8.0",
+    "eslint-config-prettier": "6.9.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "eslint-plugin-react": "7.16.0",
+    "eslint-plugin-react-hooks": "2.0.1",
+    "jest": "24.7.1",
+    "jest-sonar-reporter": "2.0.0",
+    "prettier": "1.19.1",
+    "react-app-rewired": "2.1.5",
+    "react-test-renderer": "16.8.6",
+    "require-context.macro": "1.0.4",
+    "source-map-loader": "0.2.4",
+    "typescript": "3.7.2",
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10"
+  },
+  "jest": {
+    "coverageReporters": [
+      "lcov",
+      "cobertura"
+    ]
+  },
+  "jest-junit": {
+    "outputDirectory": "output/test",
+    "outputName": "./test-report.xml"
+  }
+}

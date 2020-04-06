@@ -1,0 +1,99 @@
+{
+  "fechaPublicacion": "09-08-2019",
+  "fechaFinalizacion": "08-09-2019",
+  "estado": "activo",
+  "titulo": "JEFE DE COMPRAS DE TEXTIL",
+  "descripcion": "<p>Estamos en búsqueda de profesionales de las carreras de Comercialización, Marketing, Administración de Empresas y Diseño Textil para formar parte de nuestro equipo comercial.</p><p>La propuesta te permitirá llevar adelante la negociación con proveedores nacionales e internacionales, planificar las compras anuales, investigar las tendencias del mercado, desarrollar nuevos proveedores y realizar viajes al interior y exterior del país.</p><p>Valoraremos experiencia en puestos similares, preferentemente en Retail.</p><p> </p><p>Requisitos:</p><p>Son requisitos de la búsqueda, el nivel avanzado de Inglés, dominio de Excel y disponibilidad para realizar viajes al interior y exterior del país.</p><p> </p><p>Beneficios:</p><p>Nuestras oficinas están en la ciudad de Ituzaingó, Pcia. de Buenos Aires, y contamos con beneficios que te facilitarán el día a día:</p><p>Jornada flexible</p><p>Cochera</p><p>Comedor</p><p>Snacks y refrigerios saludables</p><p>Medicina prepaga</p><p>Descuentos en gimnasios y compras.</p><p> </p><p><br />Te invitamos a sumarte a nuestro equipo!</p><p> </p>",
+  "aptoDiscapacitados": false,
+  "cantidadVacantes": 1,
+  "empresa": {
+    "denominacion": "La Anónima",
+    "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/0/0/6/2/4/0/3/0/logoMainPic_624030_bum_vd65f5702.jpg",
+    "confidencial": false,
+    "id": 624030
+  },
+  "localizacion": {
+    "paisId": 1,
+    "zonaId": 2,
+    "provinciaId": 29,
+    "localidadId": 296,
+    "direccion": "Int. Pérez Quintana 3850",
+    "detalle": "Ituzaingó, Buenos Aires, Argentina",
+    "id": 15582351
+  },
+  "area": {
+    "id": 6,
+    "nombre": "Comercial, Ventas y Negocios"
+  },
+  "subArea": {
+    "id": 23,
+    "nombre": "Comercial"
+  },
+  "requisitos": {
+    "edad": null,
+    "residencia": {
+      "excluyente": false,
+      "cercania": "localidad",
+      "cantidadKm": null
+    },
+    "experiencia": {
+      "excluyente": true,
+      "minimo": 36
+    },
+    "genero": null,
+    "educacion": {
+      "excluyente": true,
+      "tipoEstudio": {
+        "id": 3,
+        "nombre": "Universitario"
+      },
+      "estadoEstudio": {
+        "id": 2,
+        "nombre": "Graduado"
+      }
+    },
+    "salario": {
+      "excluyente": false,
+      "salarioMinimo": null,
+      "salarioMaximo": null,
+      "frecuenciaPago": null,
+      "tipo": null,
+      "solicitarCandidato": true
+    },
+    "idiomas": [
+      {
+        "excluyente": false,
+        "idioma": {
+          "id": 1,
+          "nombre": "Inglés"
+        },
+        "nivel": {
+          "id": 10,
+          "nombre": "Avanzado"
+        }
+      }
+    ]
+  },
+  "preguntas": [],
+  "tipoTrabajo": {
+    "id": 2,
+    "nombre": "Full-time"
+  },
+  "planPublicacion": {
+    "id": 10,
+    "nombre": "Home"
+  },
+  "videoUrl": "www.youtube.com/watch?v=Ri2aMOoEnpM",
+  "nivelLaboral": {
+    "nombre": "Senior / Semi-Senior",
+    "id": 1
+  },
+  "redireccionURL": null,
+  "origenAviso": "HIRING_ROOM",
+  "puesto": {
+    "puestoId": 391,
+    "nombre": "Jefe de Compras",
+    "tieneEstadisticas": true
+  },
+  "id": 1113495614
+}

@@ -1,0 +1,38 @@
+{
+  "denominacion": "Navent",
+  "razonSocial": "Navent SRL",
+  "descripcion": "Somos la empresa multinacional líder en el mercado de Clasificados Online de Real Estate y Empleos. \nQueremos ayudar a que las personas logren dos de los anhelos más importantes de su vida: encontrar un empleo y un hogar. ",
+  "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/1/0/1/1/3/7/7/5/logoMainPic_10113775_bum_v7d415042.jpg",
+  "cuit": "27-29499968-5",
+  "pais": {
+    "id": 1,
+    "nombre": "Argentina",
+    "isoCode": "ar"
+  },
+  "provincia": {
+    "id": 6,
+    "nombre": "Capital Federal"
+  },
+  "ciudad": "CABA",
+  "calle": "Echeverría ",
+  "numero": "874",
+  "piso": "",
+  "departamento": "CABA",
+  "codigoPostal": "-",
+  "industria": {
+    "id": 18,
+    "nombre": "Internet"
+  },
+  "email": "empleos@navent.com",
+  "webURL": null,
+  "cantidadEmpleados": 800,
+  "condicionIVA": {
+    "nombre": "Responsable Inscripto",
+    "id": 1
+  },
+  "consultora": false,
+  "clienteCRMId": 10113775,
+  "idUsuarioBumeranVendedor": null,
+  "idClienteSap": "2000279113",
+  "id": 10113775
+}

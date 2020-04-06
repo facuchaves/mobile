@@ -1,0 +1,48 @@
+{
+  "email": "abarragan@navent.com",
+  "nombre": "Adrián Guillermo",
+  "apellido": "Barragán",
+  "fotoURL": "http://imgbum.prepro.jobscdn.com/portal/img/postulantes/1/static/cvMainPic_68562460_bum_v64776769.jpg",
+  "cvAdjuntoURL": "applicant_68562460_CV_61782940.mp4",
+  "disabilityCertificateURL": null,
+  "tipoDocumento": {
+    "id": 45,
+    "nombre": "D.N.I."
+  },
+  "numeroDocumento": "31034553",
+  "fechaNacimiento": "19-08-1983",
+  "genero": "masculino",
+  "paisResidencia": {
+    "id": 1,
+    "nombre": "Argentina",
+    "isoCode": "ar"
+  },
+  "codigoPostal": null,
+  "direccion": "caa guazu 986, Curuzú Cuatiá, Corrientes, Argentina",
+  "paisNacimiento": {
+    "id": 1,
+    "nombre": "Argentina",
+    "isoCode": "ar"
+  },
+  "paisRegistro": {
+    "id": 1,
+    "nombre": "Argentina",
+    "isoCode": "ar"
+  },
+  "telefonoCelular": {
+    "prefijo": "5415",
+    "numero": "64738023"
+  },
+  "telefonoFijo": {
+    "prefijo": "5411",
+    "numero": "35284312"
+  },
+  "estadoCivil": {
+    "id": 1,
+    "nombre": "Soltero/a"
+  },
+  "discapacidad": null,
+  "tieneMovilidadPropia": null,
+  "tieneLicenciaConducir": null,
+  "id": 68562460
+}

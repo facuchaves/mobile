@@ -1,0 +1,252 @@
+{
+  "number": 0,
+  "size": 5,
+  "total": 6218,
+  "content": [
+    {
+      "titulo": "Aviso Semana ingenieros",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/0/0/0/0/8/3/7/0/logoMainPic_8370_bum_v7b44c29c.jpg",
+      "empresa": "Edenor",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "13-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "planPublicacion": { "id": 10, "nombre": "Home" },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "13-08-2019 11:08:02",
+      "idEmpresa": 8370,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113498023"
+        }
+      ],
+      "id": 1113498023
+    },
+    {
+      "titulo": "Aviso Semana ingenieros",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/0/0/0/0/8/3/7/0/logoMainPic_8370_bum_v7b44c29c.jpg",
+      "empresa": "Edenor",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "13-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "planPublicacion": { "id": 10, "nombre": "Home" },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "13-08-2019 11:07:59",
+      "idEmpresa": 8370,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113498022"
+        }
+      ],
+      "id": 1113498022
+    },
+    {
+      "titulo": "Aviso Semana ingenieros",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/0/0/0/0/8/3/7/0/logoMainPic_8370_bum_v7b44c29c.jpg",
+      "empresa": "Edenor",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "13-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "planPublicacion": { "id": 10, "nombre": "Home" },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "13-08-2019 11:07:56",
+      "idEmpresa": 8370,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113498021"
+        }
+      ],
+      "id": 1113498021
+    },
+    {
+      "titulo": "Aviso Semana ingenieros",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/0/0/0/0/8/3/7/0/logoMainPic_8370_bum_v7b44c29c.jpg",
+      "empresa": "Edenor",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "13-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "planPublicacion": { "id": 10, "nombre": "Home" },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "13-08-2019 11:07:53",
+      "idEmpresa": 8370,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113498020"
+        }
+      ],
+      "id": 1113498020
+    },
+    {
+      "titulo": "Aviso Semana ingenieros",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/0/0/0/0/8/3/7/0/logoMainPic_8370_bum_v7b44c29c.jpg",
+      "empresa": "Edenor",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "13-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "planPublicacion": { "id": 10, "nombre": "Home" },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "13-08-2019 11:07:51",
+      "idEmpresa": 8370,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113498019"
+        }
+      ],
+      "id": 1113498019
+    }
+  ],
+  "filters": [
+    {
+      "type": "nivel_laboral",
+      "facets": [
+        { "id": "1", "name": "Senior / Semi-Senior", "quantity": 3404 },
+        { "id": "2", "name": "Junior", "quantity": 572 },
+        { "id": "5", "name": "Otros", "quantity": 301 },
+        { "id": "4", "name": "Jefe / Supervisor / Responsable", "quantity": 257 },
+        { "id": "3", "name": "Gerencia / Alta Gerencia / Dirección", "quantity": 72 }
+      ]
+    },
+    {
+      "type": "provincia",
+      "facets": [
+        { "id": "buenos-aires", "name": "Buenos Aires", "quantity": 5175 },
+        { "id": "santa-fe", "name": "Santa Fe", "quantity": 301 },
+        { "id": "cordoba", "name": "Córdoba", "quantity": 268 },
+        { "id": "neuquen", "name": "Neuquén", "quantity": 101 },
+        { "id": "mendoza", "name": "Mendoza", "quantity": 90 },
+        { "id": "rio-negro", "name": "Río Negro", "quantity": 34 },
+        { "id": "tucuman", "name": "Tucumán", "quantity": 32 },
+        { "id": "chubut", "name": "Chubut", "quantity": 25 },
+        { "id": "entre-rios", "name": "Entre Ríos", "quantity": 24 },
+        { "id": "salta", "name": "Salta", "quantity": 24 },
+        { "id": "chaco", "name": "Chaco", "quantity": 18 },
+        { "id": "san-juan", "name": "San Juan", "quantity": 18 },
+        { "id": "corrientes", "name": "Corrientes", "quantity": 13 },
+        { "id": "santa-cruz", "name": "Santa Cruz", "quantity": 13 },
+        { "id": "la-pampa", "name": "La Pampa", "quantity": 12 },
+        { "id": "san-luis", "name": "San Luis", "quantity": 12 },
+        { "id": "misiones", "name": "Misiones", "quantity": 11 },
+        { "id": "santiago-del-estero", "name": "Santiago del Estero", "quantity": 9 },
+        { "id": "tierra-del-fuego", "name": "Tierra del Fuego", "quantity": 9 },
+        { "id": "formosa", "name": "Formosa", "quantity": 7 },
+        { "id": "jujuy", "name": "Jujuy", "quantity": 6 },
+        { "id": "la-rioja", "name": "La Rioja", "quantity": 6 },
+        { "id": "catamarca", "name": "Catamarca", "quantity": 5 }
+      ]
+    },
+    {
+      "type": "area",
+      "facets": [
+        { "id": "comercial-ventas-y-negocios", "name": "Comercial, Ventas y Negocios", "quantity": 1195 },
+        {
+          "id": "tecnologia-sistemas-y-telecomunicaciones",
+          "name": "Tecnología, Sistemas y Telecomunicaciones",
+          "quantity": 1088
+        },
+        {
+          "id": "administracion-contabilidad-y-finanzas",
+          "name": "Administración, Contabilidad y Finanzas",
+          "quantity": 917
+        },
+        { "id": "produccion-y-manufactura", "name": "Producción y Manufactura", "quantity": 485 },
+        { "id": "oficios-y-otros", "name": "Oficios y Otros", "quantity": 416 },
+        { "id": "abastecimiento-y-logistica", "name": "Abastecimiento y Logística", "quantity": 349 },
+        {
+          "id": "atencion-al-cliente-call-center-y-telemarketing",
+          "name": "Atención al Cliente, Call Center y Telemarketing",
+          "quantity": 253
+        },
+        { "id": "salud-medicina-y-farmacia", "name": "Salud, Medicina y Farmacia", "quantity": 226 },
+        { "id": "recursos-humanos-y-capacitacion", "name": "Recursos Humanos y Capacitación", "quantity": 212 },
+        { "id": "ingenierias", "name": "Ingenierías", "quantity": 208 },
+        { "id": "gastronomia-y-turismo", "name": "Gastronomía y Turismo", "quantity": 199 },
+        { "id": "marketing-y-publicidad", "name": "Marketing y Publicidad", "quantity": 180 },
+        { "id": "secretarias-y-recepcion", "name": "Secretarias y Recepción", "quantity": 75 },
+        { "id": "legales", "name": "Legales", "quantity": 74 },
+        { "id": "ingenieria-civil-y-construccion", "name": "Ingeniería Civil y Construcción", "quantity": 71 },
+        { "id": "diseno", "name": "Diseño", "quantity": 56 },
+        { "id": "aduana-y-comercio-exterior", "name": "Aduana y Comercio Exterior", "quantity": 44 },
+        { "id": "seguros", "name": "Seguros", "quantity": 41 },
+        {
+          "id": "comunicacion-relaciones-institucionales-y-publicas",
+          "name": "Comunicación, Relaciones Institucionales y Públicas",
+          "quantity": 36
+        },
+        { "id": "educacion-docencia-e-investigacion", "name": "Educación, Docencia e Investigación", "quantity": 36 },
+        { "id": "mineria-petroleo-y-gas", "name": "Minería, Petróleo y Gas", "quantity": 34 },
+        { "id": "gerencia-y-direccion-general", "name": "Gerencia y Dirección General", "quantity": 16 },
+        { "id": "enfermeria", "name": "Enfermería", "quantity": 6 },
+        { "id": "sociologia-trabajo-social", "name": "Sociología / Trabajo Social", "quantity": 1 }
+      ]
+    },
+    {
+      "type": "tipo_trabajo",
+      "facets": [
+        { "id": "full-time", "name": "Full-time", "quantity": 5841 },
+        { "id": "part-time", "name": "Part-time", "quantity": 266 },
+        { "id": "pasantia", "name": "Pasantia", "quantity": 32 },
+        { "id": "por-horas", "name": "Por Horas", "quantity": 30 },
+        { "id": "por-contrato", "name": "Por Contrato", "quantity": 20 },
+        { "id": "temporario", "name": "Temporario", "quantity": 16 },
+        { "id": "fines-de-semana", "name": "Fines de Semana", "quantity": 7 },
+        { "id": "teletrabajo", "name": "Teletrabajo", "quantity": 4 },
+        { "id": "voluntario", "name": "Voluntario", "quantity": 2 }
+      ]
+    },
+    {
+      "type": "dias_fecha_publicacion",
+      "facets": [
+        { "id": "1", "name": "Ayer", "quantity": 1 },
+        { "id": "3", "name": "Menor a 3 d&iacute;as", "quantity": 45 },
+        { "id": "4", "name": "Menor a 4 días", "quantity": 75 },
+        { "id": "5", "name": "Menor a 5 días", "quantity": 174 },
+        { "id": "6", "name": "Menor a 6 días", "quantity": 568 },
+        { "id": "7", "name": "Menor a 1 semana", "quantity": 940 },
+        { "id": "15", "name": "Menor a 15 d&iacute;as", "quantity": 2864 },
+        { "id": "30", "name": "Menor a 1 mes", "quantity": 6218 }
+      ]
+    },
+    {
+      "type": "apto_discapacitado",
+      "facets": [{ "id": "apto-discapacitado", "name": "Apto personas con discapacidad", "quantity": 122 }]
+    },
+    {
+      "type": "salario",
+      "facets": [
+        { "id": "*-*", "name": "Salario Sin Especificar", "quantity": 6192 },
+        { "id": "8001-*", "name": "> $8.000", "quantity": 26 }
+      ]
+    }
+  ],
+  "filtersApplied": [],
+  "extendedTotal": 0
+}

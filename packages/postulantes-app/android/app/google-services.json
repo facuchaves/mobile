@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "849922718918",
+    "firebase_url": "https://conecta-prepro.firebaseio.com",
+    "project_id": "conecta-prepro",
+    "storage_bucket": "conecta-prepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849922718918:android:49eaece4782cd4b16aabc7",
+        "android_client_info": {
+          "package_name": "com.bumex.android.bumeran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849922718918-77fa5srdul865ldp3d6q36k66favqdea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdaJT3tThpiXjWfmcDu1uhGFy29ba34w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849922718918-77fa5srdul865ldp3d6q36k66favqdea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849922718918-f5dh2eu36de773dluc6rus5oh0p2biab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moba.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

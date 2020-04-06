@@ -1,0 +1,67 @@
+{
+  "fechaPublicacion": "12-08-2019",
+  "fechaFinalizacion": "11-09-2019",
+  "estado": "activo",
+  "titulo": "Analista Junior",
+  "descripcion": "<p>Importante empresa busca Analistas Junior orientados a administracion para importantes proyectos a nivel nacional.</p><p> </p><p>Beneficios de comedor, transporte y descuento en importantes marcas.</p><p> </p><p> </p><p> </p>",
+  "aptoDiscapacitados": false,
+  "cantidadVacantes": 3,
+  "empresa": {
+    "denominacion": "Confidencial",
+    "logoURL": null,
+    "confidencial": true,
+    "id": 13062978
+  },
+  "localizacion": {
+    "paisId": 1,
+    "zonaId": 1,
+    "provinciaId": 29,
+    "localidadId": 7,
+    "direccion": null,
+    "detalle": "Capital Federal, Buenos Aires, Argentina",
+    "id": 7
+  },
+  "area": {
+    "id": 1,
+    "nombre": "Administración, Contabilidad y Finanzas"
+  },
+  "subArea": {
+    "id": 22,
+    "nombre": "Administración"
+  },
+  "requisitos": {
+    "edad": null,
+    "residencia": {
+      "excluyente": false,
+      "cercania": "pais",
+      "cantidadKm": null
+    },
+    "experiencia": null,
+    "genero": null,
+    "educacion": null,
+    "salario": null,
+    "idiomas": null
+  },
+  "preguntas": [],
+  "tipoTrabajo": {
+    "id": 2,
+    "nombre": "Full-time"
+  },
+  "planPublicacion": {
+    "id": 10,
+    "nombre": "Home"
+  },
+  "videoUrl": "www.youtube.com/watch?v=8UaZ9gHr0UQ",
+  "nivelLaboral": {
+    "nombre": "Junior",
+    "id": 2
+  },
+  "redireccionURL": null,
+  "origenAviso": "PORTAL",
+  "puesto": {
+    "puestoId": null,
+    "nombre": null,
+    "tieneEstadisticas": false
+  },
+  "id": 1113095924
+}

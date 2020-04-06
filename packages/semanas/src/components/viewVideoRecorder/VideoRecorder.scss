@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+.video-recorder-component {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  .btn {
+    border: none;
+    border-radius: 2px;
+    padding: 10px 30px;
+    margin: 10px 1px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    display: inline-block;
+    transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1),
+      background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+      color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+      0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    &.btn-primary {
+      background-color: #51cf66;
+      color: #fff;
+      position: relative;
+      top: 3px;
+      width: 172px;
+      text-align: center;
+      margin-left: 24px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    &.btn.btn-empty {
+      box-shadow: none !important;
+      color: #329af0;
+      background-color: transparent;
+      border-color: transparent;
+    }
+  }
+  .video-recorder-container {
+    width: 640px;
+    display: inline-block;
+    h1 {
+      font-family: "Open Sans", sans-serif;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    p {
+      font-size: 15px;
+      padding: 0 70px;
+    }
+    .video-recorder {
+      position: relative;
+
+      .video-recorder-actions {
+        position: absolute;
+        bottom: 80px;
+        left: 0;
+        background-color: transparent;
+        display: inline-block;
+        width: 640px;
+        text-align: center;
+        button {
+          border: none;
+          background-color: transparent;
+          color: #fff;
+          &:hover {
+            cursor: pointer;
+            &::before {
+              content: "";
+            }
+          }
+        }
+        .recBtn {
+          width: 114px;
+        }
+        .stopBtn {
+          width: 96px;
+        }
+        .redoBtn {
+          width: 96px;
+        }
+      }
+      .video-recorder-btn {
+        text-align: right;
+        #videoCreatedLink {
+          float: left;
+        }
+      }
+    }
+  }
+}
+.footer {
+  display: none;
+}

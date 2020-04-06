@@ -1,0 +1,21 @@
+#Docker-Compose for Jobs-portal
+
+version: '3.3'
+
+services:
+
+  redis:
+    image: "gcr.io/jobs-deployment-manager/redis:3.0.6"
+    ports:
+      - 6379:6379
+    networks:
+      - jobs-portal
+
+networks:
+  jobs-portal:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+      - subnet: 172.128.0.0/24
+

@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Analista BI Sr",
+    "tipoTrabajo": "Full-time",
+    "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/1/0/2/2/6/1/5/2/logoMainPic_10226152.jpg",
+    "empresa": "Humana Partners",
+    "localizacion": "Avellaneda, Buenos Aires",
+    "fechaPublicacion": "19-07-2019",
+    "salarioMinimo": 0,
+    "salarioMaximo": 0,
+    "aptoDiscapacitado": false,
+    "planPublicacion": {
+      "id": 1020,
+      "nombre": "Aviso Talento"
+    },
+    "confidencial": false,
+    "portal": "Bumeran",
+    "oportunidad": false,
+    "fechaHoraPublicacion": "19-07-2019 07:42:09",
+    "idEmpresa": 10226152,
+    "links": [
+      {
+        "rel": "self",
+        "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113370082"
+      }
+    ],
+    "id": 1113370082
+  }
+]

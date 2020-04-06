@@ -1,0 +1,65 @@
+{
+  "folders": [
+    {
+      "name": "postulantes",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.codeActionsOnSave": {
+      // For ESLint
+      "source.fixAll.eslint": true,
+      // For TSLint
+      "source.fixAll.tslint": true,
+      // For Stylelint
+      "source.fixAll.stylelint": true
+    },
+    "npm-intellisense.importDeclarationType": "const",
+    "npm-intellisense.importLinebreak": "\r\n",
+    "npm-intellisense.packageSubfoldersIntellisense": true,
+    "npm-intellisense.recursivePackageJsonLookup": true,
+    "npm-intellisense.importES6": true,
+    "npm-intellisense.importQuotes": "'",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 2,
+    "prettier.bracketSpacing": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.jsxBracketSameLine": false,
+    "prettier.printWidth": 150,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.trailingComma": "es5",
+    "prettier.useTabs": false,
+    "files.associations": {
+      "*.js": "javascript",
+      "*.jsx": "javascriptreact",
+      "*.ts": "typescript",
+      "*.tsx": "typescriptreact",
+      "*.html": "html",
+      "*.json": "json"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      // "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      // "editor.formatOnSave": false
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      // "editor.formatOnSave": false
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      // "editor.formatOnSave": false
+    },
+    "editor.formatOnSave": true,
+    // "eslint.autoFixOnSave": true, // has been deprecated, use editor.codeActionsOnSave instead
+    "color-highlight.matchWords": true
+  }
+}

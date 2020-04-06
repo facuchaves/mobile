@@ -1,0 +1,32 @@
+#FILES TO IGNORE
+package-lock.json
+android/gradle.properties
+
+
+
+# Gradle
+android/app/build/
+android/app/gradle/
+android/app/gradlew
+android/app/gradlew.bat
+android/.gradle
+android/.settings
+android/.project
+/ReactAndroid/build/
+
+
+# Android
+.idea
+.gradle
+local.properties
+*.iml
+/android/.gradle
+/android/.settings
+/android/.project
+/android/build
+
+# Node
+node_modules
+*.log
+.nvm
+package-lock.json

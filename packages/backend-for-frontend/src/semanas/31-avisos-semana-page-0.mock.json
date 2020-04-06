@@ -1,0 +1,951 @@
+{
+  "number": 0,
+  "size": 30,
+  "total": 31,
+  "content": [
+    {
+      "titulo": "Ingeniero Electronico",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483202_bum_v87113e69.jpg",
+      "empresa": "Deloitte",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:46:26",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483202"
+        }
+      ],
+      "id": 1113483202
+    },
+    {
+      "titulo": "Call Center",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483201_bum_va6de420a.jpg",
+      "empresa": "EY",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:45:12",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483201"
+        }
+      ],
+      "id": 1113483201
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483199_bum_veee157db.jpg",
+      "empresa": "Banco Frances",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:41:38",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483199"
+        }
+      ],
+      "id": 1113483199
+    },
+    {
+      "titulo": "Ejecutivo de Ventas",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483198_bum_v4bc1b9a0.jpg",
+      "empresa": "Kosiuko",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:40:26",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483198"
+        }
+      ],
+      "id": 1113483198
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483196_bum_v22cc9fa1.jpg",
+      "empresa": "HSBC",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:29:29",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483196"
+        }
+      ],
+      "id": 1113483196
+    },
+    {
+      "titulo": "RRHH",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_bum_vd40f98b7.jpg",
+      "empresa": "NavarroARG",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:28:13",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483195"
+        }
+      ],
+      "id": 1113483195
+    },
+    {
+      "titulo": "Vendedor Telefonico",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483203_bum_v5d3e67fe.jpg",
+      "empresa": "Prosegur",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:47:39",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483203"
+        }
+      ],
+      "id": 1113483203
+    },
+    {
+      "titulo": "RRHH",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483200_bum_v3d0bc362.jpg",
+      "empresa": "Claro",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:42:56",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483200"
+        }
+      ],
+      "id": 1113483200
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483197_bum_vc9da60be.jpg",
+      "empresa": "Linio",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:30:46",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483197"
+        }
+      ],
+      "id": 1113483197
+    },
+    {
+      "titulo": "Telemarketer",
+      "tipoTrabajo": "Full-time",
+      "logoURL": null,
+      "empresa": "Confidencial",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " Estamos en la búsqueda de un ejecutivo de ventas.  #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": true,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:55:08",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113450553"
+        }
+      ],
+      "id": 1113450553
+    },
+    {
+      "titulo": "Ingeniero Electronico",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483202_bum_v87113e69.jpg",
+      "empresa": "Deloitte",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:46:26",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483202"
+        }
+      ],
+      "id": 1113483202
+    },
+    {
+      "titulo": "Call Center",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483201_bum_va6de420a.jpg",
+      "empresa": "EY",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:45:12",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483201"
+        }
+      ],
+      "id": 1113483201
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483199_bum_veee157db.jpg",
+      "empresa": "Banco Frances",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:41:38",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483199"
+        }
+      ],
+      "id": 1113483199
+    },
+    {
+      "titulo": "Ejecutivo de Ventas",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483198_bum_v4bc1b9a0.jpg",
+      "empresa": "Kosiuko",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:40:26",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483198"
+        }
+      ],
+      "id": 1113483198
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483196_bum_v22cc9fa1.jpg",
+      "empresa": "HSBC",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:29:29",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483196"
+        }
+      ],
+      "id": 1113483196
+    },
+    {
+      "titulo": "RRHH",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_bum_vd40f98b7.jpg",
+      "empresa": "NavarroARG",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:28:13",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483195"
+        }
+      ],
+      "id": 1113483195
+    },
+    {
+      "titulo": "Vendedor Telefonico",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483203_bum_v5d3e67fe.jpg",
+      "empresa": "Prosegur",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:47:39",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483203"
+        }
+      ],
+      "id": 1113483203
+    },
+    {
+      "titulo": "RRHH",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483200_bum_v3d0bc362.jpg",
+      "empresa": "Claro",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:42:56",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483200"
+        }
+      ],
+      "id": 1113483200
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483197_bum_vc9da60be.jpg",
+      "empresa": "Linio",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:30:46",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483197"
+        }
+      ],
+      "id": 1113483197
+    },
+    {
+      "titulo": "Telemarketer",
+      "tipoTrabajo": "Full-time",
+      "logoURL": null,
+      "empresa": "Confidencial",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " Estamos en la búsqueda de un ejecutivo de ventas.  #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": true,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:55:08",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113450553"
+        }
+      ],
+      "id": 1113450553
+    },
+    {
+      "titulo": "Ingeniero Electronico",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483202_bum_v87113e69.jpg",
+      "empresa": "Deloitte",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:46:26",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483202"
+        }
+      ],
+      "id": 1113483202
+    },
+    {
+      "titulo": "Call Center",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483201_bum_va6de420a.jpg",
+      "empresa": "EY",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:45:12",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483201"
+        }
+      ],
+      "id": 1113483201
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483199_bum_veee157db.jpg",
+      "empresa": "Banco Frances",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:41:38",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483199"
+        }
+      ],
+      "id": 1113483199
+    },
+    {
+      "titulo": "Ejecutivo de Ventas",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483198_bum_v4bc1b9a0.jpg",
+      "empresa": "Kosiuko",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:40:26",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483198"
+        }
+      ],
+      "id": 1113483198
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483196_bum_v22cc9fa1.jpg",
+      "empresa": "HSBC",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:29:29",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483196"
+        }
+      ],
+      "id": 1113483196
+    },
+    {
+      "titulo": "RRHH",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_bum_vd40f98b7.jpg",
+      "empresa": "NavarroARG",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 40,
+        "nombre": "Destacados"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:28:13",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483195"
+        }
+      ],
+      "id": 1113483195
+    },
+    {
+      "titulo": "Vendedor Telefonico",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483203_bum_v5d3e67fe.jpg",
+      "empresa": "Prosegur",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:47:39",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483203"
+        }
+      ],
+      "id": 1113483203
+    },
+    {
+      "titulo": "RRHH",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483200_bum_v3d0bc362.jpg",
+      "empresa": "Claro",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:42:56",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483200"
+        }
+      ],
+      "id": 1113483200
+    },
+    {
+      "titulo": "Asistente de Gerencia",
+      "tipoTrabajo": "Full-time",
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/1/static/logoMainPic_13075667_aviso_1113483197_bum_vc9da60be.jpg",
+      "empresa": "Linio",
+      "localizacion": "Ituzaingó, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " mporte distribuidora de Implantes Ortopedicos y dispositivo medicos ubicada en Capital Federal,busca Ejecutivos de Ventas con buena presencia, marcado perfil comercial... #semanaingar18 ",
+      "planPublicacion": {
+        "id": 70,
+        "nombre": "Simples"
+      },
+      "confidencial": false,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:30:46",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113483197"
+        }
+      ],
+      "id": 1113483197
+    },
+    {
+      "titulo": "Telemarketer",
+      "tipoTrabajo": "Full-time",
+      "logoURL": null,
+      "empresa": "Confidencial",
+      "localizacion": "Capital Federal, Buenos Aires",
+      "fechaPublicacion": "05-08-2019",
+      "salarioMinimo": 0,
+      "salarioMaximo": 0,
+      "aptoDiscapacitado": false,
+      "detalle": " Estamos en la búsqueda de un ejecutivo de ventas.  #semanaingar18 ",
+      "planPublicacion": {
+        "id": 10,
+        "nombre": "Home"
+      },
+      "confidencial": true,
+      "portal": "Bumeran",
+      "oportunidad": false,
+      "fechaHoraPublicacion": "05-08-2019 11:55:08",
+      "idEmpresa": 13075667,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://bm-applicants.prepro.api.core.jobs.navent.biz/v0/application/avisos/1113450553"
+        }
+      ],
+      "id": 1113450553
+    }
+  ],
+  "filters": [
+    {
+      "type": "nivel_laboral",
+      "facets": [
+        {
+          "id": "1",
+          "name": "Senior / Semi-Senior",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "type": "provincia",
+      "facets": [
+        {
+          "id": "buenos-aires",
+          "name": "Buenos Aires",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "type": "area",
+      "facets": [
+        {
+          "id": "comercial-ventas-y-negocios",
+          "name": "Comercial, Ventas y Negocios",
+          "quantity": 9
+        },
+        {
+          "id": "atencion-al-cliente-call-center-y-telemarketing",
+          "name": "Atención al Cliente, Call Center y Telemarketing",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "type": "tipo_trabajo",
+      "facets": [
+        {
+          "id": "full-time",
+          "name": "Full-time",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "type": "dias_fecha_publicacion",
+      "facets": [
+        {
+          "id": "3",
+          "name": "Menor a 3 d&iacute;as",
+          "quantity": 10
+        },
+        {
+          "id": "4",
+          "name": "Menor a 4 días",
+          "quantity": 10
+        },
+        {
+          "id": "5",
+          "name": "Menor a 5 días",
+          "quantity": 10
+        },
+        {
+          "id": "6",
+          "name": "Menor a 6 días",
+          "quantity": 10
+        },
+        {
+          "id": "7",
+          "name": "Menor a 1 semana",
+          "quantity": 10
+        },
+        {
+          "id": "15",
+          "name": "Menor a 15 d&iacute;as",
+          "quantity": 10
+        },
+        {
+          "id": "30",
+          "name": "Menor a 1 mes",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "type": "salario",
+      "facets": [
+        {
+          "id": "*-*",
+          "name": "Salario Sin Especificar",
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "filtersApplied": [
+    {
+      "id": "query",
+      "value": "semanaingar18"
+    }
+  ],
+  "extendedTotal": 0
+}

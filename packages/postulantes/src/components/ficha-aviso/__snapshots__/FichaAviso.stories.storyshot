@@ -1,0 +1,340 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots FichaAviso con salario 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "#f5f5f5",
+      "padding": 20,
+    }
+  }
+>
+  <div
+    className="sc-iRbamj kevBaO"
+  >
+    <div
+      className="sc-jlyJG dEZlLh"
+    >
+      <div
+        className="sc-bxivhb ikDCrE"
+      >
+        <div
+          className="sc-ifAKCX dbqMWy"
+        >
+          <h1
+            className="sc-gipzik czaEfg"
+          >
+            Asistente Comercial 
+          </h1>
+          <a
+            className="sc-csuQGl blAxMc"
+            href="TODO: undefined"
+          >
+            PMS PERU SAC
+          </a>
+        </div>
+        <div
+          className="sc-Rmtcm dEPPkl"
+        >
+          <img
+            alt="PMS PERU SAC"
+            className="sc-bRBYWo cPgTiS"
+            src="http://imgbum.jobscdn.com/portal/img/empresas/0/0/1/0/1/2/2/0/9/2/logoMainPic_10122092.jpg"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-hzDkRC iXaxGf"
+    >
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Lugar de trabajo
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Lima, Lima, Peru
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Publicado
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Hace 9 meses
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Salario
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          De $1100 a $1300 bruto por mes
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Tipo de puesto
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Full-time
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Área
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Comercial, Ventas y Negocios
+        </div>
+      </div>
+      <hr
+        className="sc-dVhcbM jNjicc"
+      />
+      <div
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "Seguimiento de VentasElaboracion de cotizacionesCoordinacion con proveedores y clientes",
+          }
+        }
+      />
+      <div
+        className="sc-gisBJw loaxKt"
+      >
+        <h5
+          className="sc-kjoXOD cZPpVQ"
+        >
+          Salario bruto pretendido
+        </h5>
+        <div
+          className="sc-cHGsZl kSxdhR"
+        >
+          <input
+            className="sc-TOsTZ cYcMYw"
+            min="0"
+            onChange={[Function]}
+            placeholder="Ingresá tu salario bruto pretendido"
+            step="any"
+            type="number"
+            value={false}
+          />
+          <button
+            className="sc-bdVaJa NVroL"
+            disabled={null}
+            onClick={[Function]}
+          >
+             POSTULARME
+          </button>
+        </div>
+        <div>
+          <label
+            htmlFor="actualizarSalario"
+          >
+            <input
+              id="actualizarSalario"
+              onChange={[Function]}
+              type="checkbox"
+              value={false}
+            />
+            Actualizar mi salario en mi CV
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots FichaAviso sin salario 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "#f5f5f5",
+      "padding": 20,
+    }
+  }
+>
+  <div
+    className="sc-iRbamj kevBaO"
+  >
+    <div
+      className="sc-jlyJG dEZlLh"
+    >
+      <div
+        className="sc-bxivhb ikDCrE"
+      >
+        <div
+          className="sc-ifAKCX dbqMWy"
+        >
+          <h1
+            className="sc-gipzik czaEfg"
+          >
+            Gerente Control de Gestión y Productividad
+          </h1>
+          <a
+            className="sc-csuQGl blAxMc"
+            href="TODO: undefined"
+          >
+            Confidencial
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-hzDkRC iXaxGf"
+    >
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Lugar de trabajo
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Santiago de Chile, Región Metropolitana, Chile
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Publicado
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Hace 9 meses
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Salario
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          No especificado
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Tipo de puesto
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Full-time
+        </div>
+      </div>
+      <div
+        className="sc-jhAzac kfYgMA"
+      >
+        <div
+          className="sc-fBuWsC hIjswg"
+        >
+          Área
+        </div>
+        <div
+          className="sc-fMiknA gVLvMN"
+        >
+          Minería, Petróleo y Gas
+        </div>
+      </div>
+      <hr
+        className="sc-dVhcbM jNjicc"
+      />
+      <div
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<p>Empresa de rubro minería y construcción requiere de un Gerente para su área de Control de Gestión y Productividad, el cuál estará a cargo del desarrollo, funcionalidad y gestión de indicadores de operaciones, de modo de ser un metodo de control y seguimiento para cumplir con presupuestos y costos de las distintas áreas de la empresa y de proyectos.</p><p> </p><p><span style=\\"text-decoration: underline;\\"><strong>Requisitos Educacionales:</strong></span></p><p>- Ingeniero Civil o Ingeniero Civil Industrial.</p><p> </p><p><span style=\\"text-decoration: underline;\\"><strong>Experiencia:</strong></span></p><p>- Al menos 7 años de experiencia general en áreas de Control de Gestión y/o Productividad.</p><p>- Al menos 4 años de experiencia en cargos de Subgerencia o Gerencia.</p>",
+          }
+        }
+      />
+      <div
+        className="sc-gisBJw loaxKt"
+      >
+        <h5
+          className="sc-kjoXOD cZPpVQ"
+        >
+          Salario bruto pretendido
+        </h5>
+        <div
+          className="sc-cHGsZl kSxdhR"
+        >
+          <input
+            className="sc-TOsTZ cYcMYw"
+            min="0"
+            onChange={[Function]}
+            placeholder="Ingresá tu salario bruto pretendido"
+            step="any"
+            type="number"
+            value={false}
+          />
+          <button
+            className="sc-bdVaJa NVroL"
+            disabled={null}
+            onClick={[Function]}
+          >
+             POSTULARME
+          </button>
+        </div>
+        <div>
+          <label
+            htmlFor="actualizarSalario"
+          >
+            <input
+              id="actualizarSalario"
+              onChange={[Function]}
+              type="checkbox"
+              value={false}
+            />
+            Actualizar mi salario en mi CV
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

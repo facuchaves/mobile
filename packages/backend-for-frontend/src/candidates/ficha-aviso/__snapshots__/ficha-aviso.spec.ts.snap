@@ -1,0 +1,202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ficha aviso should get avisos similares ok 1`] = `
+Array [
+  Object {
+    "empresa": "Humana Partners",
+    "fechaPublicacion": "19-07-2019 07:42:09",
+    "link": "/empleos/analista-bi-sr-humana-partners-1113370082.html",
+    "localizacion": "Avellaneda, Buenos Aires",
+    "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/1/0/2/2/6/1/5/2/logoMainPic_10226152.jpg",
+    "titulo": "Analista BI Sr",
+  },
+]
+`;
+
+exports[`Ficha aviso should get avisos sugeridos 1`] = `
+Array [
+  Object {
+    "empresa": "Edenor",
+    "link": "/empleos/aviso-semana-ingenieros-edenor-1113498023.html",
+    "localizacion": "Capital Federal, Buenos Aires",
+    "titulo": "Aviso Semana ingenieros",
+  },
+  Object {
+    "empresa": "Edenor",
+    "link": "/empleos/aviso-semana-ingenieros-edenor-1113498022.html",
+    "localizacion": "Capital Federal, Buenos Aires",
+    "titulo": "Aviso Semana ingenieros",
+  },
+  Object {
+    "empresa": "Edenor",
+    "link": "/empleos/aviso-semana-ingenieros-edenor-1113498021.html",
+    "localizacion": "Capital Federal, Buenos Aires",
+    "titulo": "Aviso Semana ingenieros",
+  },
+  Object {
+    "empresa": "Edenor",
+    "link": "/empleos/aviso-semana-ingenieros-edenor-1113498020.html",
+    "localizacion": "Capital Federal, Buenos Aires",
+    "titulo": "Aviso Semana ingenieros",
+  },
+  Object {
+    "empresa": "Edenor",
+    "link": "/empleos/aviso-semana-ingenieros-edenor-1113498019.html",
+    "localizacion": "Capital Federal, Buenos Aires",
+    "titulo": "Aviso Semana ingenieros",
+  },
+]
+`;
+
+exports[`Ficha aviso should get estadisticas ok 1`] = `"/salarios/nombre-area-mocked/nombre-puesto-mocked_611.html"`;
+
+exports[`Ficha aviso should get informacion solo de aviso usuario logeado 1`] = `
+Object {
+  "aviso": Object {
+    "aptoDiscapacitados": false,
+    "area": Object {
+      "id": 1,
+      "nombre": "Administración, Contabilidad y Finanzas",
+    },
+    "cantidadVacantes": 1,
+    "descripcion": "<p>Somos la empresa multinacional líder en el mercado de Clasificados Online de Real Estate y Empleos. Queremos ayudar a que las personas logren dos de los anhelos más importantes de su vida: encontrar un empleo y un hogar. </p><p>Nuestra prioridad es que nuestros clientes tomen mejores decisiones, de manera más rápida y fácil. </p><p>Para nosotros siempre el usuario esta primero. </p><p>Las marcas que forman parte de Navent son: ZonaProp, Imovelweb, Wimoveis, Inmuebles24, Adondevivir, Plusvalia, Conlallave, CompreoAlquile, Union, CRM Inmobiliario, Bumeran, ZonaJobs, UniversoBit, Laborum, Multitrabajos,  Konzerta, Hiring Room entre otras.</p><p>¡En Navent estamos en búsqueda de Nuevos Talentos!</p><p>En esta oportunidad estamos en búsqueda de un <strong>Analista BI Sr</strong>. El objetivo del rol será el desarrollo de reportes y análisis de las operaciones, los cuales brindarán datos para la toma de decisiones. Realizar pedidos de análisis ad hoc del top management.<br /><br />Los requisitos que necesitamos para cubrir esta posición son:<br /><br /></p><ul><li>Graduado de las carreras de Ingeniería Industrial, Administración, Lic. En Economía, Adm. y sistemas.</li><li> </li><li>Experiencia previa de 3-5 años en posiciones similares.</li></ul><ul><li>Dominio de Office avanzado (Excluyente)</li></ul><ul><li>SQL avanzado (deseable)</li></ul><ul><li>Herramientas de Reporting y  Business Analytics (Datastudio)</li></ul><ul><li>Inglés intermedio (Deseable) / Portugués básico (Deseable)</li></ul><ul><li>Alta capacidad de análisis, buenas relaciones interpersonales,  y trabajo en equipo.</li></ul><p> </p><p>El lugar de trabajo es en nuestras oficinas que se encuentran en <strong>Belgrano</strong> y te ofrecemos como principales beneficios:</p><ul><li>Excelente clima laboral y oportunidad de desarrollo profesional</li></ul><ul><li>Obra Social incluyendo grupo familiar</li></ul><ul><li>Día de cumpleaños libre</li></ul><ul><li>Viernes Flex </li></ul><ul><li>Semana Navent (días libres entre las fiestas)</li></ul><ul><li>50% de descuento en Megatlon</li></ul><ul><li>Refrigerios</li></ul><p><br /><br /></p>",
+    "empresa": Object {
+      "confidencial": false,
+      "denominacion": "Navent",
+      "id": 10113775,
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/1/0/1/1/3/7/7/5/logoMainPic_10113775_bum_v7d415042.jpg",
+    },
+    "estado": "activo",
+    "fechaFinalizacion": "25-08-2019",
+    "fechaPublicacion": "26-07-2019",
+    "id": 1113468691,
+    "localizacion": Object {
+      "detalle": "Capital Federal, Buenos Aires, Argentina",
+      "direccion": null,
+      "id": 7,
+      "localidadId": 7,
+      "paisId": 1,
+      "provinciaId": 29,
+      "zonaId": 1,
+    },
+    "nivelLaboral": Object {
+      "id": 1,
+      "nombre": "Senior / Semi-Senior",
+    },
+    "origenAviso": "HIRING_ROOM",
+    "planPublicacion": Object {
+      "id": 40,
+      "nombre": "Destacados",
+    },
+    "preguntas": Array [],
+    "puesto": Object {
+      "nombre": null,
+      "puestoId": null,
+      "tieneEstadisticas": false,
+    },
+    "redireccionURL": null,
+    "requisitos": Object {
+      "salario": false,
+    },
+    "subArea": Object {
+      "id": 25,
+      "nombre": "Finanzas",
+    },
+    "tipoTrabajo": Object {
+      "id": 2,
+      "nombre": "Full-time",
+    },
+    "titulo": "Analista BI Sr.",
+    "videoUrl": "vimeo.com/136332115",
+  },
+  "postulacion": Object {
+    "estado": "Estado mocked",
+    "fecha": "26-07-2019",
+  },
+}
+`;
+
+exports[`Ficha aviso should get informacion solo de aviso usuario no logeado 1`] = `
+Object {
+  "aviso": Object {
+    "aptoDiscapacitados": false,
+    "area": Object {
+      "id": 1,
+      "nombre": "Administración, Contabilidad y Finanzas",
+    },
+    "cantidadVacantes": 1,
+    "descripcion": "<p>Somos la empresa multinacional líder en el mercado de Clasificados Online de Real Estate y Empleos. Queremos ayudar a que las personas logren dos de los anhelos más importantes de su vida: encontrar un empleo y un hogar. </p><p>Nuestra prioridad es que nuestros clientes tomen mejores decisiones, de manera más rápida y fácil. </p><p>Para nosotros siempre el usuario esta primero. </p><p>Las marcas que forman parte de Navent son: ZonaProp, Imovelweb, Wimoveis, Inmuebles24, Adondevivir, Plusvalia, Conlallave, CompreoAlquile, Union, CRM Inmobiliario, Bumeran, ZonaJobs, UniversoBit, Laborum, Multitrabajos,  Konzerta, Hiring Room entre otras.</p><p>¡En Navent estamos en búsqueda de Nuevos Talentos!</p><p>En esta oportunidad estamos en búsqueda de un <strong>Analista BI Sr</strong>. El objetivo del rol será el desarrollo de reportes y análisis de las operaciones, los cuales brindarán datos para la toma de decisiones. Realizar pedidos de análisis ad hoc del top management.<br /><br />Los requisitos que necesitamos para cubrir esta posición son:<br /><br /></p><ul><li>Graduado de las carreras de Ingeniería Industrial, Administración, Lic. En Economía, Adm. y sistemas.</li><li> </li><li>Experiencia previa de 3-5 años en posiciones similares.</li></ul><ul><li>Dominio de Office avanzado (Excluyente)</li></ul><ul><li>SQL avanzado (deseable)</li></ul><ul><li>Herramientas de Reporting y  Business Analytics (Datastudio)</li></ul><ul><li>Inglés intermedio (Deseable) / Portugués básico (Deseable)</li></ul><ul><li>Alta capacidad de análisis, buenas relaciones interpersonales,  y trabajo en equipo.</li></ul><p> </p><p>El lugar de trabajo es en nuestras oficinas que se encuentran en <strong>Belgrano</strong> y te ofrecemos como principales beneficios:</p><ul><li>Excelente clima laboral y oportunidad de desarrollo profesional</li></ul><ul><li>Obra Social incluyendo grupo familiar</li></ul><ul><li>Día de cumpleaños libre</li></ul><ul><li>Viernes Flex </li></ul><ul><li>Semana Navent (días libres entre las fiestas)</li></ul><ul><li>50% de descuento en Megatlon</li></ul><ul><li>Refrigerios</li></ul><p><br /><br /></p>",
+    "empresa": Object {
+      "confidencial": false,
+      "denominacion": "Navent",
+      "id": 10113775,
+      "logoURL": "http://imgbum.prepro.jobscdn.com/portal/img/empresas/0/0/1/0/1/1/3/7/7/5/logoMainPic_10113775_bum_v7d415042.jpg",
+    },
+    "estado": "activo",
+    "fechaFinalizacion": "25-08-2019",
+    "fechaPublicacion": "26-07-2019",
+    "id": 1113468691,
+    "localizacion": Object {
+      "detalle": "Capital Federal, Buenos Aires, Argentina",
+      "direccion": null,
+      "id": 7,
+      "localidadId": 7,
+      "paisId": 1,
+      "provinciaId": 29,
+      "zonaId": 1,
+    },
+    "nivelLaboral": Object {
+      "id": 1,
+      "nombre": "Senior / Semi-Senior",
+    },
+    "origenAviso": "HIRING_ROOM",
+    "planPublicacion": Object {
+      "id": 40,
+      "nombre": "Destacados",
+    },
+    "preguntas": Array [],
+    "puesto": Object {
+      "nombre": null,
+      "puestoId": null,
+      "tieneEstadisticas": false,
+    },
+    "redireccionURL": null,
+    "subArea": Object {
+      "id": 25,
+      "nombre": "Finanzas",
+    },
+    "tipoTrabajo": Object {
+      "id": 2,
+      "nombre": "Full-time",
+    },
+    "titulo": "Analista BI Sr.",
+    "videoUrl": "vimeo.com/136332115",
+  },
+}
+`;
+
+exports[`Ficha aviso should get look and feel ok 1`] = `
+Object {
+  "bannerEmpresa": "http://imgbum.prepro.jobscdn.com/postulantes/custom/bg_10113775.png",
+  "colorBackgroundBotones": "#562567",
+  "colorBackgroundCaja": "#000000",
+  "colorBackgroundSeparadores": "#000000",
+  "colorBackgroundTituloCaja": "#762b85",
+  "colorBordeCaja": "#562567",
+  "colorLabels": "#000000",
+  "colorSeparadoresCaja": "#000000",
+  "colorTexto": "#000000",
+  "colorTextoBotones": "#FFFFFF",
+  "colorTextoCaja": "#000000",
+  "colorTextoSeparadores": "#000000",
+  "colorTextoTituloCaja": "#FFFFFF",
+  "colorTituloAviso": "#000000",
+  "colorTituloEmpresa": "#000000",
+  "empresa": Object {
+    "descripcion": "Somos la empresa multinacional líder en el mercado de Clasificados Online de Real Estate y Empleos. 
+Queremos ayudar a que las personas logren dos de los anhelos más importantes de su vida: encontrar un empleo y un hogar. ",
+    "industria": "Internet",
+    "nombre": "Navent",
+  },
+}
+`;

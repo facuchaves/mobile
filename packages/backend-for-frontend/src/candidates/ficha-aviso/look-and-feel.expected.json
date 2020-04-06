@@ -1,0 +1,25 @@
+{
+  "productoLookAndFeel": {
+    "colorTituloAviso": "#000000",
+    "colorTituloEmpresa": "#000000",
+    "colorTexto": "#000000",
+    "colorLabels": "#000000",
+    "colorBackgroundSeparadores": "#000000",
+    "colorTextoSeparadores": "#000000",
+    "colorBackgroundBotones": "#562567",
+    "colorTextoBotones": "#FFFFFF",
+    "colorBackgroundTituloCaja": "#762b85",
+    "colorTextoTituloCaja": "#FFFFFF",
+    "colorBackgroundCaja": "#000000",
+    "colorSeparadoresCaja": "#000000",
+    "colorBordeCaja": "#562567",
+    "colorTextoCaja": "#000000",
+    "bannerEmpresa": "http://imgbum.prepro.jobscdn.com/postulantes/custom/bg_10113775.png",
+    "empresa": {
+      "nombreEmpresa": "Navent",
+      "industriaEmpresa": "Internet",
+      "descripcionEmpresa": "Somos la empresa multinacional líder en el mercado de Clasificados Online de Real Estate y Empleos. \nQueremos ayudar a que las personas logren dos de los anhelos más importantes de su vida: encontrar un empleo y un hogar. ",
+      "lookAndFeelImage": "http://imgbum.prepro.jobscdn.com/postulantes/custom/bg_10113775.png"
+    }
+  }
+}
